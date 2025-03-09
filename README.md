@@ -2,7 +2,7 @@
 - 👀 I’m interested in Motion Capture, Augmented Reality, Object Detection, 3D Computer Graphics.
 - 🌱 I’m currently learning immersive technologies. 
 - 📫 How to reach me mazz.matilde@gmail.com
-- :chicken: Visit the website: https://matildao-pane.github.io/
+- :chicken: Visit the [website](https://matildao-pane.github.io/)
 
 <!---
 matildao-pane/matildao-pane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
